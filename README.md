@@ -5,10 +5,10 @@
 ![Telco Churn Dashboard](3.png)
 
 ### 📊 Overview
-A comprehensive 4-page dashboard to analyze customer churn behavior in the telecom sector. Helps identify high-risk customers, churn reasons, and revenue impact.
+A comprehensive 4-page dashboard to analyze customer churn behavior in the telecom sector. Helps identify high-risk customers, churn reasons, and revenue impact to reduce customer attrition.
 
-### 📑 4 Pages Included (As per Dashboard Navigation):
-1.  **Executive Overview** - KPIs: Total Customers, Churn Rate, Revenue & Lost Revenue
+### 📑 4 Pages Included:
+1.  **Executive Overview** - KPIs: Total Customers, Churn Rate, Revenue & Lost Revenue (Screenshot Attached)
 2.  **Customer Profile Analysis** - Demographics & customer segmentation
 3.  **Services & Contract Analysis** - Internet service, contract type impact on churn
 4.  **Revenue & Risk Analysis** - Financial impact and risk assessment
@@ -16,18 +16,18 @@ A comprehensive 4-page dashboard to analyze customer churn behavior in the telec
 ### 📁 Files in this Repository
 - `3.png` - Executive Overview Page Preview
 - `3. Telco Customer Churn Analysis.pbix` - Complete 4-Page Power BI File
-- [📥 Download PBIX File (Google Drive Link - if >25MB)](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ### 🛠️ Tools Used
 - Power BI Desktop, DAX, Data Modeling
 - Churn Analysis & Customer Segmentation
 
 ### 💡 Key Insights (From Executive Overview Page)
-- **7K** Total Customers
-- **26.54%** Churn Rate (2K customers churned, 5K retained)
-- **456.12K** Total Monthly Revenue
-- **139.13K** Lost Monthly Revenue due to Churn
-- **Highest Churn by InternetService:** Fiber optic (42% churn rate) vs DSL (19%) vs No Internet (7%)
+- **7K** Total Customers | **26.54%** Churn Rate (2K churned, 5K retained)
+- **456.12K** Total Monthly Revenue | **139.13K** Lost Revenue
+- **Critical Finding:** Fiber optic users have highest churn (42%) vs DSL (19%)
+
+### 🎯 Business Impact
+This dashboard helps the retention team to focus on high-risk Fiber optic customers to reduce churn and recover lost revenue.
 
 ---
-*Developed by Muhammad Ali Azam | Data Analyst from Multan | Power BI Developer*
+*Developed by Muhammad Ali Azam | Data Analyst from Multan*
